@@ -2,7 +2,7 @@
 
 ## Hi, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">
 
-I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.alxafrica.com/). I'm a passionate tech enthusiast, an open-source advocate. I'm open to collaboration on projects... Feel free to connect with me here:
+I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.alxafrica.com/). I'm a tech enthusiast, passionate about open-source. I'm open to collaboration on projects... Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-efaeleng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efa-eleng/)](https://www.linkedin.com/in/efa-eleng/)
 [![Instagram Badge](https://img.shields.io/badge/-eleng20-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eleng3/)](https://www.instagram.com/eleng3/)
