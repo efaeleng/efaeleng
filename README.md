@@ -4,8 +4,8 @@
 
 I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.alxafrica.com/). I'm a tech enthusiast, passionate about open-source... Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-efaeleng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efa-eleng/)](https://www.linkedin.com/in/efa-eleng/)
-[![Instagram Badge](https://img.shields.io/badge/-eleng20-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eleng3/)](https://www.instagram.com/eleng3/)
+[![Linkedin Badge](https://img.shields.io/badge/-efaeleng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efa-eleng/)](https://www.linkedin.com/in/efaeleng/)
+[![Instagram Badge](https://img.shields.io/badge/-efaeleng-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/efaeleng/)](https://www.instagram.com/efaeleng/)
 [![Gmail Badge](https://img.shields.io/badge/-efaeleng@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efaeleng@protonmail.com)](mailto:efaeleng@protonmail.com)
 <!-- [![Website Badge](https://img.shields.io/badge/-Efa's_Portfolio-black?style=flat-square&link=https://kaiwalyakoparkar.github.io/)](#)  -->
 
