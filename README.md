@@ -1,5 +1,6 @@
 <p align="center">
-  ![grid-snake](https://user-images.githubusercontent.com/26598507/155541327-d1b1a7c6-5bf6-4862-88f4-c1bf1d77ad35.svg)  
+  ![grid-snake](https://user-images.githubusercontent.com/26598507/155547321-d533a37b-d9f7-4ad3-900e-5babd93c98c0.svg)
+
 </p>
 
 ## Hi, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">
@@ -49,8 +50,9 @@ I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.al
 
 
 <p width="800">    
-  ![pacman-video-game](https://user-images.githubusercontent.com/26598507/155541026-f6b3ed6d-f677-460c-af6e-3326018e37c6.gif)
-    
+
+    ![pacman-video-game](https://user-images.githubusercontent.com/26598507/155547183-f8497e22-d8d9-4aac-8155-ae2581064d80.gif)
+
 </p>
 
 
