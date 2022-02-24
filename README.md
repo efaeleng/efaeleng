@@ -1,12 +1,7 @@
-<p align="center">
-  ![grid-snake](https://user-images.githubusercontent.com/26598507/155547321-d533a37b-d9f7-4ad3-900e-5babd93c98c0.svg)
-
-</p>
-
 ## Hi, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">
 
 
-I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.alxafrica.com/). I'm a passionate Software Engineer from Nigeria... 
+I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.alxafrica.com/). I'm a passionate Software Engineer... 
 
 ### Languages and Tools:
 <p align="left">
@@ -48,12 +43,10 @@ I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.al
 <!-- - 💬 Ask me about ... -->
 <br>
 
-
-<p width="800">    
-
-    ![pacman-video-game](https://user-images.githubusercontent.com/26598507/155547183-f8497e22-d8d9-4aac-8155-ae2581064d80.gif)
-
+<p align="center">
+  
+  
+  ![grid-snake](https://user-images.githubusercontent.com/26598507/155548028-b4c2144d-8128-4e40-a575-e5ddc6dbf172.svg)  
 </p>
-
 
 
