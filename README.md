@@ -5,7 +5,7 @@
 </h1>
 
 
-## Hi, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">
+## Hi, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
 
 I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.alxafrica.com/). I'm a passionate Software Engineer... 
