@@ -1,14 +1,7 @@
-<h1 align="center">
-
-  <a href="https://github.com/efaeleng" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26598507/155559012-d67a7e8c-ebab-4e75-9417-7e397b605bce.png"  width="900" height="300" /> </a>
-<!-- ![Github](https://user-images.githubusercontent.com/26598507/155559012-d67a7e8c-ebab-4e75-9417-7e397b605bce.png) -->
-</h1>
-
-
 ## Hi, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px" height="25px">
 
 
-I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.alxafrica.com/). I'm a passionate Software Engineer... 
+I am Efa Eleng, I'm a passionate Software Engineer... 
 
 ### Languages and Tools:
 <p align="left">
@@ -41,9 +34,9 @@ I am Efa Eleng, currently learning Software Engineering at [ALX ](https://www.al
 <br>
 
 <!-- - 🔭 I’m currently working on an E-commerce Project using React and Laravel -->
-- 🌱 I’m currently learning React Native and Laravel
-- 👯 I’m looking to collaborate on Projects with React, JavaScript...
-- 📫 How to reach me: efaeleng@protonmail.com
+- 🌱 I’m currently learning React Native and Go
+- 👯 I’m looking to collaborate on Projects with React, TypeScript...
+- 📫 How to reach me: efaeleng@proton.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a gastronomer, I love playing video games and I'm super into sports...
  <br>
