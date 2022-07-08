@@ -34,7 +34,7 @@ I am Efa Eleng, I'm a passionate Software Engineer...
 <br>
 
 <!-- - 🔭 I’m currently working on an E-commerce Project using React and Laravel -->
-- 🌱 I’m currently learning React Native and Go
+- 🌱 I’m currently learning Flask and Django
 - 👯 I’m looking to collaborate on Projects with React, TypeScript...
 - 📫 How to reach me: efaeleng@proton.me
 - 😄 Pronouns: He/Him
