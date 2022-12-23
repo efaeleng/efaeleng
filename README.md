@@ -1,7 +1,7 @@
 ## Hi, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px" height="25px">
 
 
-I am Efa Eleng, I'm a passionate Software Engineer... 
+I am Efa Eleng, I'm a passionate Software Engineer/Data Scientist... 
 
 <!-- ### Languages and Tools:
 <p align="left">
@@ -34,8 +34,8 @@ I am Efa Eleng, I'm a passionate Software Engineer...
 <br>
 
 <!-- - 🔭 I’m currently working on an E-commerce Project using React and Laravel -->
-- 🌱 I’m currently learning Flask and Django
-- 👯 I’m looking to collaborate on Projects with React, TypeScript...
+- 🌱 I’m currently learning Flask
+- 👯 I’m looking to collaborate on Projects with React, TypeScript, NLP...
 - 📫 How to reach me: efaeleng@proton.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a gastronomer, I love playing video games and I'm super into sports...
