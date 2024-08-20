@@ -34,8 +34,8 @@ I am Efa Eleng, I'm a passionate Software Engineer/Data Scientist...
 <br>
 
 <!-- - 🔭 I’m currently working on an E-commerce Project using React and Laravel -->
-- 🌱 I’m currently learning Flask
-- 👯 I’m looking to collaborate on Projects with React, TypeScript, NLP...
+- 🌱 I’m currently learning Data Visualization etc.
+- 👯 I’m looking to collaborate on Projects with React, TypeScript..
 - 📫 How to reach me: efaeleng@proton.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a gastronomer, I love playing video games and I'm super into sports...
